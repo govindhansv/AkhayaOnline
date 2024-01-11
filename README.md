@@ -6,6 +6,8 @@ Link :-
 
 npx tailwindcss -i ./public/src/input.css -o ./public/src/output.css --watch
 
+# flow bite css included through link and script in layout.hbs
+
 # Vercel Node JS Hosting
 
 https://stackoverflow.com/questions/61808973/is-it-possible-to-deploy-a-nodejs-app-in-vercel
